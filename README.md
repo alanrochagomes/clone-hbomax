@@ -81,4 +81,4 @@ _Para melhor orientação, assista ao vídeo de instruções do desafio, que est
 
 <h2 id="demo">Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui](https://github.com/alanrochagomes/clone-hbomax).
+Você pode acessar ao resultado final do projeto [clicando aqui](https://alanrochagomes.github.io/clone-hbomax/).
